@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the King and his Councill at White-hall being a brief relation of some of the cruel and inhumane usage and great persecution and imprisonment of above four thousand two hundred and thirty of the people of God, in scorn called Quakers, for worshipping of God and meeting together in the fear of the Lord, and for obeying Christs commands who saith swear not at all, and for testifying to the truth and keeping their consciences clear toward God and man.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39881</idno>
+            <idno type="STC">Wing F1436A</idno>
+            <idno type="STC">ESTC R29524</idno>
+            <idno type="EEBO-CITATION">11164769</idno>
+            <idno type="OCLC">ocm 11164769</idno>
+            <idno type="VID">46475</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46475)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1423:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the King and his Councill at White-hall being a brief relation of some of the cruel and inhumane usage and great persecution and imprisonment of above four thousand two hundred and thirty of the people of God, in scorn called Quakers, for worshipping of God and meeting together in the fear of the Lord, and for obeying Christs commands who saith swear not at all, and for testifying to the truth and keeping their consciences clear toward God and man.</title>
+                  <author>Westfeild, Robert.</author>
+               </titleStmt>
+               <extent>1 broadside in 2 sheets.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1661].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Robert Wastfeild [et. al.]</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+               <term>Persecution --  England.</term>
+               <term>Liberty of conscience --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:46475:1" rendition="simple:additions"/>
+            <head>For the King, and His Councill at White-Hall.</head>
+            <argument>
+               <p>Being a Breif Relation of ſome of the Cruel, and Inhumane Uſage, and great Perſecution and Impriſonment of above Four Thouſand Two Hundred and Thirty of the People of God, in Scorn called QUAKERS, for Worſhipping of God, and Meeting together in the fear of the Lord; and for Obeying Chriſts Commands, who ſaith, <hi>Swear not at All;</hi> and for Teſtifying to the Truth, and keeping their Conſciences clear towards God and Man.</p>
+            </argument>
+            <div type="part">
+               <head>In Priſon in <hi>LONDON,</hi> and the Subburbs 500.</head>
+               <p>WHo are ſo Thronged in Priſons and Holes, (and many without Straw) that they can<g ref="char:EOLhyphen"/>not lie down altogether, many not having a Foot ſquare of room a piece allowed them; ſome are forced to ſtand, while others lie down, and ſome are carried out Sick; and one is carried out of the <hi>White-Lyon</hi> priſon in <hi>Southwark</hi> Dead, being drove Twenty five Miles like Sheep, and over heat, and then put up in a cloſe Priſon: And in that priſon the Theives tear off their Cloaths from their Backs, and robbed them of their Money and Goods, to the Value of Thirty pounds; in which Wickedneſſe the Goaler Tol<g ref="char:EOLhyphen"/>lerated them; and the Meat hath been taken away which hath been brought to them. So conſider, what men will bring upon themſelves, if they go on in theſe wayes; and if they were not a Chaſte people (in<g ref="char:EOLhyphen"/>deed) it were enough to bring Sickneſſes and Diſeaſes among them: and many are ſick in <hi>Newgate,</hi> and ſome carried out Sick, and one carried out Dead.</p>
+            </div>
+            <div type="part">
+               <head>HARTFORD-SHIRE 140.</head>
+               <p>SOme lying in Dungeons, where there are Vaults or Pits to fall into; and one Woman bigg with Child Dead, by reaſon of the Abuſes and Violence acted by them that took her Husband away, as her Neighbours certified; and they are ſo Thronged in Priſon, they can hardly Stand or Lie; and fur<g ref="char:EOLhyphen"/>ther threatned with Dungeons and Fetters.</p>
+            </div>
+            <div type="part">
+               <head>BERK-SHIRE 40.</head>
+               <p>THere they did at firſt lie in Dungeons without Straw, being denyed Food for many dayes by the Goaler, and he denyed them the common Aire that he let Fellons have, though he confeſſed he was afraid, there being ſo many together, would breed Infection.</p>
+            </div>
+            <div type="part">
+               <head>KENT 100.</head>
+               <p>IN the ſeverall Priſons and Dungeons, and denyed Friends to Viſit them; and have had Dirt, Stones, and pailes of Water thrown upon them in Priſon; and denyed Straw to Lie on; and forced to Eaſe themſelves in the place where they Lie and Eat; and not ſuffered to fetch Water, though it be in the Priſon, to clean their Room.</p>
+            </div>
+            <div type="part">
+               <head>S<g ref="char:V">Ʋ</g>SSEX 45.</head>
+               <p>WHo are (many of them) poor Labouring Men, who were taken from their Houſes and Employ<g ref="char:EOLhyphen"/>ments, and their houſes Rifled.</p>
+            </div>
+            <div type="part">
+               <head>HAMP-SHIRE 81.</head>
+               <p>INnocent Men and Women, who lie, many of them in Dungeons, and Meat and other Neceſſaries de<g ref="char:EOLhyphen"/>nyed them, and their Cloaths taken away from them; and one was Beaten by the Theives till he was al<g ref="char:EOLhyphen"/>moſt Dead; and their Goods taken away, and Drunkards take poſſeſſion of their Houſes, and make great Fires with their Wood, and force the Servants and Children away; and carried away their Goods by Cart Loads, to the Value of Five or 600l. and Drink, and Rant, and Swear in their Houſes.</p>
+            </div>
+            <div type="part">
+               <head>DORSET-SHIRE 73</head>
+               <p>TAken from their Meetings, Markets, and Shops, and ſome Beat and Struck with Swords, and caſt into Naſty Holes and Dungeons, and Fellons ſuffered to take away their Cloaths, and Eleven of their Hats, and ſold them for Drink, and ſaid they had an Order from Col. <hi>Strangwayes.</hi>
+               </p>
+               <p>And at <hi>Pool</hi> they Haled out people that were Worſhipping of God, and carried out a Weak Man be<g ref="char:EOLhyphen"/>twixt Four of them; two taking him by his Leggs, and two by his Armes, and ſtiflled his Sences, and threw him on his Back before the Mayor, who cryed, <hi>Hang him Rogue:</hi> And ſo ſent him to Priſon, with Thirteen more.</p>
+            </div>
+            <div type="part">
+               <head>SOMMERSET-SHIRE 180.</head>
+               <p>TAken from their Meetings, and ſome in the High Wayes, and ſome from the Plough, and ſome from their Houſes; and ſome had their Blood ſhed, and were kickt and beat, and wonderfully abuſed, and not ſuffered to have proviſion brought them; and one Man had his Shirt taken from him to pay them that carried him to Priſon, and many Friends Goods have been taken away to pay them that goe with them to Priſon, and many Clothiers are taken away that ſet many Families to work, and ſome driven by Horſe-Men into Ditches, and ſome into Pooles, to the endangering of their Lives, and their Proviſion taken from them, and burned in the fire by Souldiers; and ſome thruſt into Holes on Tops of Houſes, that they have hardly room to lie; And they have fettred ſix Friends to ſix Fellons in Irons, and the Goaler de<g ref="char:EOLhyphen"/>nies their Wives and Children to viſit them; and he demands more of them for a little Air and Eaſe in a Week, than the poor people could earn in a Week if they were at Liberty: And beſides, the cruelty of the Goaler is ſuch that it can hardly be uttered. And ſome being dragged out of their Houſes (for wor<g ref="char:EOLhyphen"/>ſhipping God) were brought before two Captaines, who fell upon them, bea, them, and wounded them.</p>
+            </div>
+            <div type="part">
+               <head>GLOCESTER-SHIRE 100.</head>
+               <p>THere the People of God lie in Dungeons and Naſty Holes; and ſo many have been their abuſes, that it is hard to number them. Many Widdowes, Girles, and ſome of 80. years of Age, and poor Men</p>
+            </div>
+            <div type="part">
+               <head>ESSEX 96</head>
+               <p>SOme of which are ſhut up in Holes like Ovens in an old Caſtle, having nothing but Straw to Lie on; and dragged up and down from place to place, and drawn like Sheep by Armed Men, and Horſe-men, and then ſhut up in Holes again, with Straw, being Innocent.</p>
+            </div>
+            <div type="part">
+               <head>NORFOLK 75</head>
+               <p>MEn and Women taken out of their Beds, and out of their own Houſes at Mid-night without War<g ref="char:EOLhyphen"/>rant, and ſome out of their Meetings: And they that took them, ſaid, <hi>They were for Slaying and Killing.</hi> And many were Fined fourty Shillings a peice for not taking the Oath of Allegiance, and Im<g ref="char:EOLhyphen"/>priſoned till payment. And the Priſons are ſo Full, that they can hardly Sit or Lie one by another: And Men and Women ſeparated from their Families and Children.</p>
+            </div>
+            <div type="part">
+               <head>S<g ref="char:V">Ʋ</g>FFOLK 89.</head>
+               <p>SOme taken from their labours, others from their Houſes, and caſt into naſty Holes, where Men in fulneſs, would hardly put their Dogs; and after the Officers had rifled many of them, and found them Innocent, yet they ſent them to Priſon.</p>
+            </div>
+            <div type="part">
+               <head>LINCOLN-SHIRE 85</head>
+               <p>DRoven up and down, and put into Priſons and Dungeons, and cloſe Places, where they can hardly Lye or Sit; and though there be room enough in the Priſon, yet the Goaler denies it them, except they would give a bigger rate then the poor Men could get by their Labours if they were at Liberty.</p>
+            </div>
+            <div type="part">
+               <head>YORK-SHIRE 400</head>
+               <p>TAken out of their Houſes, and from their Employments, and Meetings, and knockt down, and their Blood ſhed by Armed Men, and thruſt up into cloſe Priſons, and Dungeons, and their own Houſe Doores Nailed up, and their Houſes kept from them, and Drives, and Forces Men and Women in<g ref="char:EOLhyphen"/>to Priſon, that the Priſons are ſo full, that if they go on thus perſecuting, the Priſons will not hold the Priſoners, whom they thus ſhut up by Heaps and Hundreds.</p>
+            </div>
+            <div type="part">
+               <head>CHESHIRE 138</head>
+               <p>TAken out of their Meetings, and from their Employments, and put into Priſons, and almoſt all the Friends in <hi>two Hundreds</hi> were Fined one Shilling a Day, and their Goods ſtreined to a great Value for not going to the Steeple-Houſe, and Women ſeized upon in their Beds, and Drove all Night in the Dirt, and then put up a amongſt Men, and 68. thruſt up in a little Room, and others in a little narrow Room, and are not ſuffered to go forth to buy them a little bread, nor get a little water.</p>
+            </div>
+            <div type="part">
+               <head>LANCASHIRE 280</head>
+               <p>SOme whole Families, Men, Women and Children, and Servants taken from their Houſes, and drove like Flocks of Sheep to <hi>Lancaſter</hi> Caſtle, many being ſent without Warrant or Mittimus, and Women of 60. or 70. years old drove fourty Miles, and put up in <hi>Lancaſter</hi> Caſtle, and their very Houſes and Eſtates laid waſte; and their Sufferings are ſo many, in this County, and grievous, they can hardly be num<g ref="char:EOLhyphen"/>bred.</p>
+            </div>
+            <div type="part">
+               <head>LEICESTER-SHIRE 25</head>
+               <p>TAken from their Houſes, and from their Employments, and caſt into Goale, where they are not ſuf<g ref="char:EOLhyphen"/>fered to have neceſſary things brought to them as Men.</p>
+            </div>
+            <div type="part">
+               <head>WESTMERLAND 120</head>
+               <p>BEing taken from their Meetings, and ſome fetched from their Houſes, others from their Shops, and other Employments; and many committed, and put together, and their own Houſe made a Priſon of, and afterwards carried to ſeveral Priſons: And ſome of this before the Proclamation was Proclaimed.</p>
+            </div>
+            <div type="part">
+               <head>C<g ref="char:V">Ʋ</g>MBERLAND 35</head>
+               <p>TAken from their Houſes, and out of their Meetings, and in Markets, both Men and Women, and ſent to <hi>Carlile</hi> Dungeon, and Holes, Wives great with Child, and there lie under cruell Sufferings.</p>
+            </div>
+            <div type="part">
+               <head>D<g ref="char:V">Ʋ</g>RHAM 100</head>
+               <p>TAken out of their Meetings, and ſome from their Employments, and caſt into Naſty Holes and Dun<g ref="char:EOLhyphen"/>geons; ſome taken from their beds, and this before the Proclamation. And the place is ſo Naſty, that the Goaler ſaid, He would not put his Dog in it; where the Sheriff ſeeing their grievous Sufferings ſaid, <hi>Woe is my Soul, I Suffer with you.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>WARWICK-SHIRE 240</head>
+               <p>TAken out of their Houſes, and from their Employments, and in the High Wayes, and their Monies taken away as they were travelling, and they caſt into Priſon, and the Goaler would not let them have food brought to them, though they offered 2d. in the ſhilling Profit, and are kept in a ſtreight Priſon &amp; Dungeon 20 ſteps deep in the Ground, and are forced to Eaſe themſelves in the Room where they Lodg and Eat, and not ſuffered to cleane it, and are Chained and Fettered, and Friends denyed Viſiting of them, and to bring them Neceſſaries, who Lye in Straw, and can ſcarce get that; and ſuch as come to
+<pb facs="tcp:46475:2"/> taken from their Dwellings, and their Houſes left Deſolate; and one Friend through Cruelty and hard Uſage, dyed in Priſon; being driven by Drunken Men that could hardly fit on their Horſes, and ſome were beat, bruiſed and knockt down, and their Cloathes taken from them, and not ſo much as a Mat al<g ref="char:EOLhyphen"/>lowed them to lie on. And the Goaler encouraged the Theives and Fellons to take their Cloathes from them, and one was wounded; and the Conſtable threatned to take away a Cow, to pay for carrying ſome of them to Priſon, and took five Shillings from one of the priſoners Wives: And a Juſtice ſmote one <hi>William Hibbs</hi> a Friend on the Head, and ſet him in the Stocks all night; and a Widdow had a Child lay ſick, and they would not ſuffer her to take order with any to look after it.</p>
+            </div>
+            <div type="part">
+               <head>WILT-SHIRE 42</head>
+               <p>TAken out of their Shops, and other Places; and after they had ſent them to Priſon, took away their Goods to Ruine their Families; and ſome had their Cloathes taken away by the Conſtable for carry<g ref="char:EOLhyphen"/>ing them to Priſon, where they lie in Holes; ſome being ſuffered to have Straw, and ſome none.</p>
+            </div>
+            <div type="part">
+               <head>WORCESTER-SHIRE 197.</head>
+               <p>THere the people of God are thrown into Holes and Dungeons, and denyed Straw to Aged Men, and denyed neceſſary food to be brought to them, and they can hardly ſtir, being ſo throng'd up, Men and Women, and are almoſt ſtarved and ſmothered, and their Children left crying in the Streets, and Women 70. or 80. yeares of Age ſet in the Stocks ſeverall houres together.</p>
+            </div>
+            <div type="part">
+               <head>OXFORD-SHIRE 88.</head>
+               <p>MAny poor Labouring Men taken out of their Houſes and Shops, others out of the High Wayes, and kept in Dungeons and cloſe Places, ſo that many are ſick; and ſome beat, ſo that their bodies are cruelly bruiſed; and had Irons put on them that are Innocent, who lift up a hand againſt none.</p>
+            </div>
+            <div type="part">
+               <head>SHROP-SHIRE 54</head>
+               <p>TAken from their Shops and Employments, and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hruſt into Dungeons, where they are like to be choak<g ref="char:EOLhyphen"/>ed, and are denyed neceſſaries, and Pen and Ink taken from them, that they cannot make their caſe known, and Bills and Bonds taken from them; and if any come to viſit them with neceſſaries, they caſt them into Priſon, and fire Muskets at them, and throw things at them if they look but out for a little air, and wounded one with a Pike, and run at another with a Sword.</p>
+            </div>
+            <div type="part">
+               <head>STAFFORD-SHIRE 35.</head>
+               <p>TAken from their Houſes, and Ploughs, and Shops, Men of 60. and 70. years of Age; many Families all the men taken away, by which they cannot follow their Callings, and two Boys whipt and ſtockt, being under Age, and could not take the Oath, and the reſt kept in cloſe Priſons.</p>
+            </div>
+            <div type="part">
+               <head>B<g ref="char:V">Ʋ</g>CKINGHAM-SHIRE 61</head>
+               <p>PUT into a Noiſome Priſon, and Coale-hole, and denyed the Liberty that other Priſoners have.</p>
+            </div>
+            <div type="part">
+               <head>CAMBRIDG-SHIRE 156</head>
+               <p>MEn, Women, Widdows and Fatherleſs Children of 9. or 10. yeares Old, and People of 60. or 70. yeares of Age, caſt into Holes and Noiſome Places, and their Children left crying in the Streets, having none left to look after them, their Habitations left Deſolate, and are like to periſh, and the Goa<g ref="char:EOLhyphen"/>ler took away their Cloathes and bedding from them.</p>
+            </div>
+            <div type="part">
+               <head>H<g ref="char:V">Ʋ</g>NTINGTON-SHIRE 20</head>
+               <p>FEtched from their Houſes and Habitations, and carryed into cloſe Priſons, where neceſſaries were hindred from being brought to them as Men, one of which is Dead in Priſon.</p>
+            </div>
+            <div type="part">
+               <head>BEDFORD-SHIRE 60</head>
+               <p>THruſt into a cloſe Priſon, whereof Fifty are in a cloſe ſtreight Place where many are ſick and weak and likely to periſh.</p>
+            </div>
+            <div type="part">
+               <head>NORTHAMPTON-SHIRE 82</head>
+               <p>SOme taken out of their Houſes, others Watched for untill they came into their Houſes, and ſome Im<g ref="char:EOLhyphen"/>priſoned for going to hear the Tryall of their Friends at <hi>Seſſions,</hi> and ſome out of their peaceable Meetings, and put into Dungeons, a great way under ground, and kept a week without neceſſary food to be brought to them, and ſome kept by Officers in a Narrow Room, and yet the Officers took 30s. from them; and they are ſo thronged in the Dungeons, that ſome ſit up all night, and with lying ſo thick and cloſe many are weak, and the Goaler ſtops their Proviſion, and ſaith he will have a penny in the ſhilling for their bread, though their Friends bring it them, and thoſe that bring it, the Goaler kicks and beats, and claps them into Priſon: ſo what they get is through a little hole.</p>
+               <p>Viſit them are Impriſoned, and both Wife and Children denyed to bring them Neceſſaries, and a 100 were kept Priſoners in the Steeple-houſe in <hi>Long-Compton.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>DEVON-SHIRE 160</head>
+               <p>TAken out of their Houſes, and from their Labours and Meetings, in which they Edified one another, and are kept up in ſtreight and cloſe Priſons, all the Men-Friends in <hi>Plymouth;</hi> and many of this County being Trades-men, who kept many people at Labour.</p>
+            </div>
+            <div type="part">
+               <head>CORNWALL 50</head>
+               <p>TAken out of their Houſes and Meetings, and caſt into Naſty Holes, and Dungeons.</p>
+            </div>
+            <div type="part">
+               <head>BRISTOLL 191</head>
+               <p>WEre Impriſoned, being taken out of their Meetings by much Violence, again and again, and Guards ſet at their Doores.</p>
+            </div>
+            <div type="part">
+               <head>CARDIFFE 33</head>
+               <p>TAken out of their Meetings and Houſes, and put into a Cruell Goal, where they are much ſtreight<g ref="char:EOLhyphen"/>ned.</p>
+            </div>
+            <div type="part">
+               <head>M<g ref="char:V">Ʋ</g>NMO<g ref="char:V">Ʋ</g>TH 10</head>
+               <p>TAken out of their Houſes, and put into a cloſe Priſon, and drag'd like Horſes through the dirt in the Night Seaſon.</p>
+            </div>
+            <div type="part">
+               <head>HEREFORD-SHIRE 35</head>
+               <p>TAken out of their Houſes, and peaceable Meetings, and committed to Priſon, and none ſuffered to come at them to bring them Proviſion, but as they drew it up by a Rope from the ground.</p>
+            </div>
+            <div type="part">
+               <head>NOTTINGHAM-SHIRE 37</head>
+               <p>TAken out of their Houſes and peaceable Meetings, and caſt into Naſty Priſons and Holes.</p>
+            </div>
+            <div type="part">
+               <head>R<g ref="char:V">Ʋ</g>TLAND-SHIRE 4</head>
+               <p>TAken out of their Houſes, and committed to Priſon.</p>
+               <p>ANd many People that have kept their Beds, &amp; long been Sick &amp; Lame with Sores upon them, have they carried before Magiſtrates, &amp; caſt into Priſon, where they lie very Sick &amp; Weak in Priſon, not ſuffered to have Straw, many of them; and many of theſe, were taken up before the Proclamation. And Women great with Child have been haled and abuſed without pitty; no regard being ſhown to either Sex or Condition.</p>
+               <p>And Women are ſhamefully abuſed, and their Husbands caſt into Noiſome Dungeons, and their Chil<g ref="char:EOLhyphen"/>dren left Fatherleſs, and Motherleſs. Queen <hi>Maries</hi> Law was nothing like this Lingering Martyrdom, that puts Men and Women in Holes, and will not let them have Straw nor Meat; and they are fain to Eaſe themſelves in the ſame Room where they Lodg, and Eat, enough to Poyſon them; by which ſeve<g ref="char:EOLhyphen"/>rall are Sick, and ſome Dead.</p>
+               <p>And theſe are but a part which are come to our Hands from the Generall Priſons of the Counties; for in many other private Corporations, there are many that are not yet come to our Hands; and if you do not put a ſtop to theſe things, you will bring Innocent Blood upon your ſelves.</p>
+               <p>And through the 30 Mens Riſing in the City, have you brought this Perſecution upon us Cauſeleſsly, who themſelves cleared us when they were Condemned at the <hi>Seſſions;</hi> therefore we are exceed<g ref="char:EOLhyphen"/>ingly wronged. And this we would deſire of you, To reſtore our Meetings, and to ſet all our Friends at Liberty: And as you have made us Tranſgreſſors by a Proclamation publickly to the Nations, That you would give forth another Proclamation to clear our Innocency before the Nations again, which we do believe you know we are Innocent, and do not deſerve theſe Bonds and Afflictions.</p>
+               <p>Oh the Hard-heartedneſs, and Unchriſtian State, to cauſe ſo many Men, Women and Widdows that are Innocent, and for Worſhipping of God to be caſt into Priſons and Dungeons, and their Trades and Hus<g ref="char:EOLhyphen"/>bandry ſpoiled, their Families Ruined, and laid Waſte, and their Children left Crying in the Streets!</p>
+            </div>
+            <closer>We whoſe Names are Subſcribed, do in the Humility of Heart, and the Fear of the Lord, in behalf of our Suffering Brethen, Preſent this to your Serious Conſideration, and do wait at your Door deſiring your Anſwer.
+<signed>
+                  <list>
+                     <item>Robert Waſtfeild</item>
+                     <item>William Travers</item>
+                     <item>John Dando</item>
+                     <item>William Stordy</item>
+                     <item>John Oſgood</item>
+                     <item>Thomas Coveny</item>
+                     <item>Thomas Pits</item>
+                     <item>Giles Silveſter</item>
+                     <item>Gobert Sikes</item>
+                     <item>Gilbert Latye</item>
+                     <item>William Simſon</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <opener>
+               <salute>READERS:</salute>
+            </opener>
+            <p>THeſe things Foregoing (except ſome little Addition that came ſince) were delivered to the King and his Councell to be read amongſt them, that they might Conſider of the Inhumane, <g ref="char:V">Ʋ</g>nnatural, and <g ref="char:V">Ʋ</g>nchriſtian-like Practices that are acted in this Day on an Innocent People; that if there were any Tenderneſs in People, it were enough to break their Hearts: And the Councel, upon the View thereof, appointed the Deliverers to come again the next Councell Day.</p>
+            <p>All which is but an Abſtract of their Many and Cruel Sufferings, which are ſo great, that they cannot be conteined in a little Room; and ſo Cruelly and <g ref="char:V">Ʋ</g>nmercifully are they uſed, as here<g ref="char:EOLhyphen"/>after you may more fully ſee, which ſhortly are to be Publiſhed, of above 5000. Men and Women caſt into Priſons, whoſe Trades and Husbandry lyes waſte, ſome of which lyes in Straw, in Holes and Dungeons, and a full Account is not yet come to our Hands.</p>
+            <p>And it may be taken notice of, that in the days of <hi>Oliver</hi> and <hi>Richard Cromwell,</hi> and in the <hi>Common-wealths</hi> days, we ſuffered for our Conſcience Sake, and bearing Teſtimony to the Truth, as it is in Jeſus; and becauſe we could not ſwear in any Caſe.</p>
+            <p>
+               <list>
+                  <item>ANd for which we can make it appear, there have ſuffered Impriſonments, Stockings, Whippings, Loſs of Goods, and other Abuſes in their dayes aforeſaid—3179—Perſons</item>
+                  <item>And there lies yet in Priſon that were committed in the Names of the <hi>Common-wealth,</hi> and <hi>Oliver</hi> and <hi>Richard Cromwell</hi>—79—Perſons</item>
+                  <item>And there dyed (in their dayes) in Priſon, through hard Uſage—32—Perſons</item>
+                  <item>And there have dyed Priſoners, one before this late Proclamation, and 5. ſince, through the cruell hard Uſage in Priſons—6—Perſons</item>
+               </list>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon,</hi> at the <hi>Black-ſpread-Eagle</hi> and <hi>Windmil</hi> in <hi>Martins Le Grand.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
